@@ -10,9 +10,9 @@ lang: en
 
 **/!\ Wencash is still not released, below is the future draft description that will be on [CoinMarketCap](https://coinmarketcap.com/). The launch is divided into several phases planned between 2023 and 2024:**
 
-- **WEN ERC-20 token and locked liquidity pools deployments.**
-- **Wencash v1 standalone chain launch.**
-- **Set up of both ways trustless and permissionless bridge between Ethereum and Wencash.** 
+- ✅ **WEN ERC-20 token and locked liquidity pools deployments.** 
+- ❌ **Wencash v1 standalone chain launch.**
+- ❌ **Set up of both ways trustless and permissionless bridge between Ethereum and Wencash.** 
 
 **/!\ Everything will be on Open Source Licenses. But even once released, the software has to be seen as an experimental technology and not as production ready. A bug, a hack or human errors can cause a loss up to 100% of assets. We will not be responsible, or liable to you or any third party, for any loss or damage of property or injuries related to your use of Wencash chain.**
 
