@@ -1,6 +1,6 @@
 ---
 title: About Wencash
-description: About Wencash
+description: General Wencash Description
 lang: en
 ---
 
@@ -18,13 +18,13 @@ lang: en
 
 ## What Is Wencash (WEN)? 
 
-Wencash is a [Layer-1 blockchain](https://coinmarketcap.com/alexandria/glossary/layer-1-blockchain) based on the open source code of [Ethereum](https://coinmarketcap.com/currencies/ethereum/) (Execution and Consensus Layers). Therefore, Wencash is a decentralized secure scalable oriented application platform, where it is possible to write smart contracts and build many kinds of applications accessible worldwide. Almost all existing Ethereum tool stack are compatible with Wencash.
+Wencash is a [Layer-1 blockchain](https://coinmarketcap.com/alexandria/glossary/layer-1-blockchain) based on the open source code of [Ethereum](https://coinmarketcap.com/currencies/ethereum/) (Execution and Consensus Layers). Therefore, Wencash is a decentralized, secure, and scalable application platform, enabling the writing of smart contracts and the building of a wide range of applications with global accessibility. Almost all existing Ethereum tool stack are compatible with Wencash.
 
 WEN is the native token of Wencash chain and it is also available on Ethereum blockchain as an [ERC-20 token](https://coinmarketcap.com/academy/glossary/erc-20). Tokens exchange (including WEN) between these two blockchains will be enabled through a trustless and permissionless bridge deployed on both chains.
     
 ## Who Are the Founders of Wencash?
 
-For now, the founders of Wencash remain anonymous, which is pretty usual in the cryptocurrency world. Although information about the team behind the project is scarce, they can be easily reach through their social media platforms such as X.
+For now, the founders of Wencash remain anonymous, which is pretty usual in the cryptocurrency world. Although information about the team behind the project is scarce, they can be easily reached through their social media platforms, such as X.
 
 ## What Makes Wencash Unique?
 
@@ -43,14 +43,16 @@ All of this will take years and will not be available on the first release of We
 
 The initial supply for the ERC-20 WEN on Ethereum is set to 100 million (100,000,000) token supply in circulation. 
 
-Of this initial supply, 100% were sent to the liquidity pools on [Uniswap](https://coinmarketcap.com/academy/article/how-to-use-uniswap), where LP tokens were burnt (sent to the WEN contract token) so that the initial supply liquidity can never be removed. Users can track the [NUT/WEN](https://coinmarketcap.com/dexscan/ethereum/0xd813e7ac5bb5067ca548e4d9ba441d95003d074f/) and [WEN/ETH](https://coinmarketcap.com/dexscan/ethereum/0xcf4d1c0470c8e2ae8bf8160dc1c0ac25f00bb702/) pairs on CMC DexScan.
+Of this initial supply, 100% were sent to two liquidity pools on [Uniswap](https://coinmarketcap.com/academy/article/how-to-use-uniswap). The Liquidity Provider (LP) tokens were burnt (sent to the WEN contract token through these two transactions [here](https://etherscan.io/tx/0x06e59fce1a4d9a56077e3e17744296407b2884b43ea1df335309f36e83816630) and [there](https://etherscan.io/tx/0xfc970d8a8897985e944b8a17a6c166c884b4a75be1848eb9e4dfe68f17a8cf9e)) to ensure that the initial liquidity can never be removed. Users can track the two pools on CMC DexScan: 
+- [NUT/WEN](https://coinmarketcap.com/dexscan/ethereum/0xd813e7ac5bb5067ca548e4d9ba441d95003d074f/)
+- [WEN/ETH](https://coinmarketcap.com/dexscan/ethereum/0xcf4d1c0470c8e2ae8bf8160dc1c0ac25f00bb702/)
 
 Besides, 20 million (20,000,000) tokens will be airdropped on Wencash chain Genesis file to: 
 
 - 100,000 first WEN holders with at least 500 WEN: 100 WEN airdrop each.
 - 100,000 first [NUT](https://coinmarketcap.com/currencies/nutcoin-org/)  holders with at least 100,000,000 NUT: 100 WEN airdrop each.
 
-The snapshot will be done at the ethereum block #18909332 (Monday Jan 01 2024). If there are less holders than expected after this date, the remaining WEN from the 20 million will be burnt and set to the null address.
+These two airdrops are cumulative if one address meets both criteria. The snapshot will be done at the Ethereum block #18909332 (Monday Jan 01 2024). If there are less holders than expected after this date, the remaining WEN from the 20 million will be burnt and set to the null address.
 
 As Ethereum's economics, Wencash is not deflationary, i.e. its total supply is not limited, in order not to justify a "fixed security budget" for the network (according to Ethereum developers). Through the Proof-of-Stake (PoS) consensus mechanism, rewards are distributed to validators. The validators APY (Annual Percentage Yield) can be modelized via some tools such as this [Gnosis dev tool](https://www.desmos.com/calculator/7pzueggivw?lang=fr): change the preset gnosis values with the Ethereum parameters: F=64, T=12, S=32 and with the only changed Wencash variable N=2048 (minimum genesis validators number). Note that the APY decreases according to the total current validators number (1 unit on the x Axis is 100 validators = 3200 WEN).
 
@@ -58,7 +60,7 @@ With the introduction of EIP-1559, the transactions base fees are burned, removi
 
 ## How Is Wencash Secured?
 
-WEN as an [ERC-20](https://coinmarketcap.com/academy/glossary/erc-20) token on the [Ethereum](https://coinmarketcap.com/currencies/ethereum/) blockchain is secured by the Proof-of-Stake (PoS) consensus mechanism, like other ERC-20. Besides, the smart contract has been generated using the open sources contract libraries of OpenZeppelin with no additionnal features and no access control preselected, increasing its safety.
+WEN as an [ERC-20](https://coinmarketcap.com/academy/glossary/erc-20) token on the [Ethereum](https://coinmarketcap.com/currencies/ethereum/) blockchain is secured by the Proof-of-Stake (PoS) consensus mechanism, like other ERC-20. Besides, the smart contract has been generated using the open sources contract libraries of OpenZeppelin with no additional features and no access control preselected, increasing its safety.
 
 WEN as a native token of Wencash standalone chain is secured by its code source 100% based on Ethereum, at the beginning.
 
