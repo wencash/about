@@ -6,18 +6,17 @@ lang: en
 
 # About Wencash
 
-**ERC-20 contract: [0xEBA6145367b33e9FB683358E0421E8b7337D435f](https://etherscan.io/token/0xEBA6145367b33e9FB683358E0421E8b7337D435f)**
+**Wencash (WEN) ERC-20 token contract: [0xEBA6145367b33e9FB683358E0421E8b7337D435f](https://etherscan.io/token/0xEBA6145367b33e9FB683358E0421E8b7337D435f)**
 
 **/!\ Wencash L1 chain is still not released. As long as the Wencash L1 chain and its bridge from/to Ethereum are not released, WEN ERC-20 token may be seen as a memecoin, relying on "WEN" memes.** 
 
-**Below is the future draft description that will be on [CoinMarketCap](https://coinmarketcap.com/).** 
-**The launch is divided into several phases:**
+*Below is the future draft description that will be on [CoinMarketCap](https://coinmarketcap.com/). The launch is divided into several phases:*
 
-- ✅ **WEN ERC-20 token and locked liquidity pools deployments.** 
-- ❌ **Wencash v1 standalone chain launch.**
-- ❌ **Set up of both ways trustless and permissionless bridge between Ethereum and Wencash.** 
+- ✅ *WEN ERC-20 token and locked liquidity pools deployments.*
+- ❌ *Wencash v1 standalone chain launch.*
+- ❌ *Set up of both ways trustless and permissionless bridge between Ethereum and Wencash.*
 
-**/!\ Everything will be on Open Source Licenses. But even once released, the software has to be seen as an experimental technology and not as production ready. A bug, a hack or human errors can cause a loss up to 100% of assets. We will not be responsible, or liable to you or any third party, for any loss or damage of property or injuries related to your use of Wencash chain.**
+*/!\ Everything will be on Open Source Licenses. But even once released, the software has to be seen as an experimental technology and not as production ready. A bug, a hack or human errors can cause a loss up to 100% of assets. We will not be responsible, or liable to you or any third party, for any loss or damage of property or injuries related to your use of Wencash chain.*
 
 ## What Is Wencash (WEN)? 
 
