@@ -8,7 +8,10 @@ lang: en
 
 **ERC-20 contract: [0xEBA6145367b33e9FB683358E0421E8b7337D435f](https://etherscan.io/token/0xEBA6145367b33e9FB683358E0421E8b7337D435f)**
 
-**/!\ Wencash is still not released, below is the future draft description that will be on [CoinMarketCap](https://coinmarketcap.com/). The launch is divided into several phases planned between 2023 and 2024:**
+**/!\ Wencash L1 chain is still not released. As long as the Wencash L1 chain and its bridge from/to Ethereum are not released, WEN ERC-20 token may be seen as a memecoin, relying on "WEN" memes.** 
+
+**Below is the future draft description that will be on [CoinMarketCap](https://coinmarketcap.com/).** 
+**The launch is divided into several phases:**
 
 - ✅ **WEN ERC-20 token and locked liquidity pools deployments.** 
 - ❌ **Wencash v1 standalone chain launch.**
